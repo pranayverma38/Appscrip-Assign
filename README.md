@@ -31,4 +31,6 @@ Get initial Password
 
 Now login to argocd using the exposed public local Ip and using credentials from above secert.
 
+# 3) public access URL for Nginx
+No public URL from ingress because <pre>i run terraform destroy in order to save cost overnight</pre>
 
