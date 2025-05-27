@@ -1,4 +1,5 @@
-NOTE : I made this readme file by myself and havent put exlanation of each step as this is not for public visibility.
+NOTE : I have followed all the steps as required in the assignment, you can refer to yaml files and tf files above for the same 
+I made this readme file by myself and havent put long explanation of each step as this is not for public visibility.
 
 # 1) Provision eks cluster with terraform, with public subnet + iam
 to proceed, we need terraform and aws cli installed also terraform should be configured with AWS Account or role
